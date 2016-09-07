@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"sectionextension-desc": "insert section marker for labeledsectionTransclusion",
+	"sectionextension-i18n-welcome": "Welcome to the localization file of the sectionExtension extension.",
+	"sectionextension-helloworld": "Hello world!",
+	"sectionextension-helloworld-intro": "Welcome to the \"Hello world\" special page of the sectionExtension extension.",
+	"helloworld": "Hello world"
+}
